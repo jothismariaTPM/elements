@@ -45,7 +45,7 @@ useEffect(() => {
 
             {/* Desktop Menu */}
             <div className="hidden lg:flex items-center font-medium gap-8">
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/production">Home</NavLink>
                 <NavLink to="#">About Us</NavLink>
                 <NavLink to="#">Dropbacks</NavLink>
                 <NavLink to="#">Celebrities</NavLink>
