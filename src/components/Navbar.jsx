@@ -40,7 +40,7 @@ useEffect(() => {
     }
   `}
 >    <NavLink to='/' onClick={()=>setOpen(false)}>
-               <img src={assets.logo} alt="Logo" className='w-28 h-12'/>
+               <img src={assets.logo} alt="Logo" className='w-42 h-14'/>
             </NavLink>
 
             {/* Desktop Menu */}
@@ -51,7 +51,7 @@ useEffect(() => {
                 <NavLink to="#">Celebrities</NavLink>
                 <NavLink to="#">Pre-wedding</NavLink>
                 <NavLink to="#">Video</NavLink>
-                <NavLink to="#">Contact Us</NavLink>
+                <NavLink to="/contact">Contact Us</NavLink>
             </div>
 
           <div className='flex items-center gap-6 sm:gap-10 lg:hidden'>

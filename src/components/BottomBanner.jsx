@@ -3,9 +3,9 @@ import { assets } from "../assets/asset";
 const BottomCTABanner = () => {
   return (
     <section
-      className="relative w-full h-[420px] flex items-center justify-center text-center py-50 mt-24"
+      className="relative w-full h-[420px] flex items-center justify-center text-center py-50"
       style={{
-        backgroundImage: `url(${assets.image9})`,
+        backgroundImage: `url(${assets.bb1})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
