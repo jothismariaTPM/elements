@@ -14,7 +14,7 @@ const ElementsIntro = () => {
           <h1 className="text-4xl md:text-5xl font-extrabold leading-tight tracking-tight">
             <span className="text-orange-500">The Best</span>
             <span className="block text-gray-900">
-              Photoshoot Locations in India
+              Photoshoot Location in India
             </span>
           </h1>
 
@@ -28,7 +28,7 @@ const ElementsIntro = () => {
     <span className="font-bold text-gray-600 tracking-wider">
       Elements
     </span>{" "}
-    is the best curated photoshoot locations, with a strong
+    is the best curated photoshoot location, with a strong
     presence across Bangalore, Chennai, Hyderabad, and Coimbatore. Each space
     is thoughtfully designed to deliver a complete, immersive visual experience.
   </p>
