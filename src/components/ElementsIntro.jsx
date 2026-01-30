@@ -12,7 +12,7 @@ const ElementsIntro = () => {
         {/* Left Column */}
         <div className="text-center md:text-left pr-0 md:pr-12 tracking-wide font-['Cinzel']">
           <h1 className="text-4xl md:text-5xl font-extrabold leading-tight tracking-tight">
-            <span className="text-orange-500">Largest Chain</span>
+            <span className="text-orange-500">The Best</span>
             <span className="block text-gray-900">
               Photoshoot Locations in India
             </span>
