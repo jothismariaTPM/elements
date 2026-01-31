@@ -43,7 +43,7 @@ export const footerLinks = [
       { text: "Delivery Information", url: "#" },
       { text: "Track your Order", url: "#" },
       { text: "Privacy Policy", url: "#" },
-      { text: "Terms & Conditions", url: "components/terms-and-conditions"}
+      { text: "Terms & Conditions", url: "/terms-and-conditions"}
     ],
   },
 ];
