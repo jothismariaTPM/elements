@@ -7,8 +7,8 @@ const TermsAndConditions = () => {
       <p><strong>Effective Date:</strong> [Insert Date]</p>
 
       <p>
-        Welcome to <strong>Pullman Euro Car Spare</strong> (“Pullman Euro Car Spare,” “we,” “us,” or “our”).
-        By accessing or using the Pullman Euro Car Spare website (“Service” or “Platform”), you (“you,” “your,” or “User”)
+        Welcome to <strong>Elements</strong> (“Elements,” “we,” “us,” or “our”).
+        By accessing or using the Elements website (“Service” or “Platform”), you (“you,” “your,” or “User”)
         agree to comply with and be bound by these Terms and Conditions (“Terms”).
         If you do not agree, please stop using the Service immediately.
       </p>
@@ -64,7 +64,7 @@ const TermsAndConditions = () => {
 
       <h2>9. Intellectual Property</h2>
       <p>
-        All content on the Platform is the exclusive property of Pullman Euro Car Spare.
+        All content on the Platform is the exclusive property of Elements.
         Unauthorized use is prohibited.
       </p>
 
@@ -81,7 +81,7 @@ const TermsAndConditions = () => {
 
       <h2>12. Indemnification</h2>
       <p>
-        You agree to indemnify Pullman Euro Car Spare against claims arising from misuse or violations.
+        You agree to indemnify Elements against claims arising from misuse or violations.
       </p>
 
       <h2>13. Disclaimer of Warranties</h2>
@@ -106,7 +106,7 @@ const TermsAndConditions = () => {
 
       <h2>17. Contact Us</h2>
       <p>
-        <strong>Pullman Euro Car Spare</strong><br />
+        <strong>Elements</strong><br />
         Email: [Insert Email]
       </p>
     </div>
