@@ -3,6 +3,7 @@ import React from "react";
 const TermsAndConditions = () => {
   return (
     <div style={{ padding: "40px", maxWidth: "900px", margin: "0 auto", lineHeight: "1.7" }}>
+      <br></br><br></br>
       <h1>Terms and Conditions</h1>
       <p><strong>Effective Date:</strong> [Insert Date]</p>
 
