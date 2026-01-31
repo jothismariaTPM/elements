@@ -12,6 +12,10 @@ function App() {
       <Routes>
         <Route path='/production' element={<Home/>}/>
         <Route path='/contact' element={<Contact/>}/>
+        <Route
+          path="/terms-and-conditions"
+          element={<TermsAndConditions />}
+        />
       </Routes>
       <Footer/>
     </div>
