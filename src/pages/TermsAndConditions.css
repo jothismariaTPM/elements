@@ -1,0 +1,80 @@
+/* Page wrapper */
+.terms-container {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 48px;
+  background-color: #ffffff;
+  color: #2c2c2c;
+  font-family: "Georgia", "Times New Roman", serif;
+  line-height: 1.75;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+}
+
+/* Main title */
+.terms-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #111;
+}
+
+/* Effective date */
+.terms-date {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 32px;
+}
+
+/* Section headings */
+.terms-container h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 36px;
+  margin-bottom: 12px;
+  color: #1a1a1a;
+}
+
+/* Paragraphs */
+.terms-container p {
+  font-size: 16px;
+  margin-bottom: 16px;
+  text-align: justify;
+}
+
+/* Lists */
+.terms-container ul {
+  padding-left: 20px;
+  margin-bottom: 16px;
+}
+
+.terms-container li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+/* Strong text */
+.terms-container strong {
+  font-weight: 600;
+}
+
+/* Contact section emphasis */
+.terms-container p:last-child {
+  margin-top: 12px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .terms-container {
+    padding: 28px 20px;
+    margin: 40px 16px;
+  }
+
+  .terms-title {
+    font-size: 26px;
+  }
+
+  .terms-container h2 {
+    font-size: 18px;
+  }
+}
