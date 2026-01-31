@@ -25,10 +25,9 @@ const Footer = () => {
             </NavLink>
 
             <p className="text-md leading-relaxed text-gray-700 max-w-sm">
-              Elements is the best photoshoot location in India,
+              Elements on East Coast is the best photoshoot location in India,with it's presence in is the best photoshoot location in India,
               with presence in{" "}
-              <span className="font-semibold">Bangalore</span> and{" "}
-              <span className="font-semibold">Chennai</span>.
+              <span className="font-semibold">Chennai</span>. 
             </p>
 
             {/* Social Icons */}
