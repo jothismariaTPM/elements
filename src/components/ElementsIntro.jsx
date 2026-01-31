@@ -17,6 +17,11 @@ const ElementsIntro = () => {
               Photoshoot Location in India
             </span>
           </h1>
+           <div className="mt-8">
+          <button className="px-10 py-4 bg-orange-500 text-black font-semibold rounded-full hover:bg-orange-400 transition-all duration-300 shadow-xl">
+            Book Now
+          </button>
+        </div>
 
           <div className="mt-2 h-1 w-16 bg-orange-500 mx-auto md:mx-0 rounded-full" />
         </div>

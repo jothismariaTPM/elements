@@ -1,7 +1,7 @@
 import { assets } from "../assets/asset";
 
 const videos = [
-  { id: "kBgmBTE1YNo", title: "Pre Wedding Shoot at Photo Paradise" },
+  { id: "jJg_v8Z7y2E", title: "Pre Wedding Shoot at Photo Paradise" },
   { id: "sjL3vaIWy3A", title: "One of the Best Pre Wedding Shoots" },
   { id: "jJg_v8Z7y2E", title: "Pre Wedding Shoot by Photo Paradise" },
 ];
