@@ -25,9 +25,8 @@ const Footer = () => {
             </NavLink>
 
             <p className="text-md leading-relaxed text-gray-700 max-w-sm">
-              Elements on East Coast is the best photoshoot location in India,with it's presence in is the best photoshoot location in India,
-              with presence in{" "}
-              <span className="font-semibold">Chennai</span>. 
+              Elements on East Coast is the premier photoshoot venue in Chennai,designed to bring creative vision to life.
+             
             </p>
 
             {/* Social Icons */}
