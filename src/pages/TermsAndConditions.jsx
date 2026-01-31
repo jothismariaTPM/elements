@@ -1,4 +1,6 @@
 import React from "react";
+import React from "react";
+import "TermsAndConditions.css";
 
 const TermsAndConditions = () => {
   return (
