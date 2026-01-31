@@ -97,7 +97,7 @@ const Footer = () => {
     Narayana Temple, Panaiyur, Chennai, Tamil Nadu 600119
   </p>
 </div>
- <p className="mt-2 text-gray-700">📞 +91 98765 43210</p>
+ <p className="mt-2 text-gray-700">📞 +91 80731 50719</p>
   </div>
 
 

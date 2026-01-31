@@ -21,7 +21,7 @@ const Contact = () => {
           <div className="space-y-3  text-gray-700 text-lg font-medium justify-center">
             <p className="max-w-xs leading-relaxed">📍 343/3 Rajaji Salai, Ganga Sagar Near Kochar Villa, SH 49, near Mathsya Narayana Temple, Panaiyur, Chennai, Tamil Nadu 600119</p>
             <p>📧 contact@elementscoast.com</p>
-            <p>📞 +91 98765 43210</p>
+            <p>📞 +91 80731 50719</p>
           </div>
           <div className="flex gap-4 mt-4">
               <a className="group w-9 h-9 flex items-center justify-center rounded-full bg-[#4267B2] hover:-translate-y-0.5 transition-all">
