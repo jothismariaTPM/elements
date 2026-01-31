@@ -59,14 +59,15 @@ const Footer = () => {
       <ul className="space-y-3 text-sm">
         {section.links.map((link, i) => (
           <li key={i}>
-            <a
-              href={link.url}
-              className="relative inline-block text-gray-700 font-medium group"
-            >
-              {link.text}
-              <span className="absolute left-0 -bottom-1 w-0 h-[1px] bg-black transition-all duration-300 group-hover:w-full" />
-            </a>
-          </li>
+  <NavLink
+    to={link.url}
+    className="relative inline-block text-gray-700 font-medium group"
+  >
+    {link.text}
+    <span className="absolute left-0 -bottom-1 w-0 h-[1px] bg-black transition-all duration-300 group-hover:w-full" />
+  </NavLink>
+</li>
+
         ))}
       </ul>
     </div>
